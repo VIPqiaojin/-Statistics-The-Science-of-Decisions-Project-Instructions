@@ -2,6 +2,7 @@
 Udacity Data Analyst Task1 
 
 Chinese
+
 背景信息
 在一个 Stroop （斯特鲁普）任务中，参与者得到了一列文字，每个文字都用一种油墨颜色展示。参与者的任务是将文字的打印颜色大声说出来。
 这项任务有两个条件：一致文字条件，和不一致文字条件。在一致文字条件中，显示的文字是与它们的打印颜色匹配的颜色词，如“红色”、“蓝色”。
@@ -19,6 +20,7 @@ Chinese
 
 
 English
+
 Background Information
 In a Stroop task, participants are presented with a list of words, with each word displayed in a
 color of ink. The participant’s task is to say out loud the color of the ink in which the word is
