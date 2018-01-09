@@ -1,4 +1,4 @@
-# -Statistics-The-Science-of-Decisions-Project-Instructions
+# -Statistics-Test-of-Stroop-Effect
 Udacity Data Analyst Task1 
 
 
