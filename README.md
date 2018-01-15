@@ -1,6 +1,4 @@
-# -Statistics-Test-of-Stroop-Effect
-Udacity Data Analyst Task1 
-
+# Statistics: Test of Stroop Effect (Udacity Data Analyst Task1)
 
 背景信息
 
