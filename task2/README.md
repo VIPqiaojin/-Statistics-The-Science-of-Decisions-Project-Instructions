@@ -26,7 +26,7 @@
 #### 注:使用 Anaconda Python 3.6 version *  
 
 
-#### 附:
+#### 本人使用泰坦尼克号数据,附数据说明:
 #### [数据字典链接](https://www.kaggle.com/c/titanic/data)   
 Data Dictionary  
 Variable	Definition	Key  
