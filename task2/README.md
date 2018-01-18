@@ -26,7 +26,8 @@
 #### 注:使用 Anaconda Python 3.6 version *  
 
 
-附:[数据字典链接](https://www.kaggle.com/c/titanic/data)  
+#### 附:
+#### [数据字典链接](https://www.kaggle.com/c/titanic/data)   
 Data Dictionary  
 Variable	Definition	Key  
 survival	Survival	0 = No, 1 = Yes  
